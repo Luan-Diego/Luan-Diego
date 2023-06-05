@@ -11,7 +11,7 @@ Eu me chamo **Luan**.
 <a href = "mailto:luangamer57@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   
 ### Sobre mim
-Sou um Desenvolvedor front-end e web designer com conhecimentos em HTML, CSS, JavaScript, atualmente focado na biblioteca React js e estudando PHP.
+Sou um Desenvolvedor front-end e web designer com conhecimentos em HTML, CSS, JavaScript, e banco de dados com PostgreSQL, atualmente focado na biblioteca React js e estudando PHP.
 
 ### Linguagens e ferramentas
 
