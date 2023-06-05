@@ -3,7 +3,7 @@
 Ola! Seja bem vindo(a)! 
 Eu me chamo **Luan**.
 
-<img src='https://github.com/Luan-Diego/Luan-Diego/assets/86962061/7c987a2a-c27a-4302-9006-577370ebccbb' alt='logo' width='200px' margin='0 auto'/>
+<img src='https://github.com/Luan-Diego/Luan-Diego/assets/86962061/7c987a2a-c27a-4302-9006-577370ebccbb' alt='logo' width='300px' margin='0 auto'/>
 
 
   
