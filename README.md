@@ -3,7 +3,8 @@
 Ola! Seja bem vindo(a)! 
 Eu me chamo **Luan**.
 
- 
+<img src='https://github.com/Luan-Diego/Luan-Diego/assets/86962061/7c987a2a-c27a-4302-9006-577370ebccbb' alt='logo' width='200px' margin='0 auto'/>
+
 
   
 ### Sobre mim
@@ -14,7 +15,6 @@ Sou um Desenvolvedor front-end e web designer, entusiasta em sistemas operaciona
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luan-Diego&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&called=PAT_1"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Diego&layout=compact&langs_count=7&theme=github_dark&called=PAT_1"/>
 
-<img src='https://github.com/Luan-Diego/Luan-Diego/assets/86962061/7c987a2a-c27a-4302-9006-577370ebccbb' alt='logo' width='200px' margin='0 auto'/>
 </div>  
 
 
