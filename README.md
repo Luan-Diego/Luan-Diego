@@ -43,5 +43,7 @@ Sou um Desenvolvedor front-end e web designer, entusiasta em sistemas operaciona
 ### Outros locais para me encontrar
 <a href="https://steamcommunity.com/id/chupapeitos/"><img src="https://camo.githubusercontent.com/8f3f8e12a8ab9620b87997aa946c7c5d876396a81295ea1854305920bb002b50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537465616d2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d7768697465" target="_blank"></a>
   
+![Snake animation](https://github.com/Luan-Diego/Luan-Diego/blob/output/github-contribution-grid-snake.svg)
+  
 
 </div>
