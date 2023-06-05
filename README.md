@@ -11,7 +11,7 @@ Eu me chamo **Luan**.
 <a href = "mailto:luangamer57@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   
 ### Sobre mim
-Sou um Desenvolvedor front-end e web designer com conhecimentos em HTML, CSS, JavaScript, atualmente focado na biblioteca React js.
+Sou um Desenvolvedor front-end e web designer com conhecimentos em HTML, CSS, JavaScript, atualmente focado na biblioteca React js e estudando PHP.
 
 ### Linguagens e ferramentas
 
@@ -21,5 +21,9 @@ Sou um Desenvolvedor front-end e web designer com conhecimentos em HTML, CSS, Ja
 ![React](https://img.shields.io/badge/react-%2320ADD4.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%238B26C1.svg?style=for-the-badge&logo=figma&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+
 
 </div>
