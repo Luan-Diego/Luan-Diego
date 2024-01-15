@@ -8,7 +8,7 @@
 
   
 ### Sobre mim
-Sou um Desenvolvedor front-end e web designer, entusiasta em sistemas operacionais principalmente as diversas distros do Linux (Utilizando Kali-Linux como sistema secundario), com conhecimentos em HTML, CSS, JavaScript, e banco de dados com PostgreSQL, atualmente focado na biblioteca React js e estudando PHP.
+Sou um Desenvolvedor Full-stack, entusiasta em sistemas operacionais principalmente as diversas distros do Linux (Utilizando Kali-Linux como sistema secundario), com conhecimentos em HTML, CSS, JavaScript, e banco de dados com PostgreSQL, atualmente focado na biblioteca Reactjs e estudando outras frameworks também Angular e Vue.
 
  <div align="left">
 <a href="https://github.com/Luan-Diego">
