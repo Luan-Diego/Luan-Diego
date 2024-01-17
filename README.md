@@ -1,11 +1,18 @@
-<div style="text-align: center;">
-
-# Hello! Welcome! My name is **Luan**.
+<p align="center">
+  <h3 align="center">Hi! Welcome! My name is Luan </h3>
+</p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=josefin+sans&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello!+Welcome!+My+name+is+Luan." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
+</p>
 
 
+
+  
+
+
+  
 <img src='https://github.com/Luan-Diego/Luan-Diego/assets/86962061/7c987a2a-c27a-4302-9006-577370ebccbb' alt='logo' width='300px' margin='0 auto'/>
 
 
