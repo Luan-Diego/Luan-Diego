@@ -1,14 +1,15 @@
 <div style="text-align: center;">
 
-# Ola! Seja bem vindo(a)! Eu me chamo **Luan**.
+# Hello! Welcome! My name is **Luan**.
 
 
 <img src='https://github.com/Luan-Diego/Luan-Diego/assets/86962061/7c987a2a-c27a-4302-9006-577370ebccbb' alt='logo' width='300px' margin='0 auto'/>
 
 
   
-### Sobre mim
-Sou um Desenvolvedor Full-stack, entusiasta em sistemas operacionais principalmente as diversas distros do Linux (Utilizando Kali-Linux como sistema secundario), com conhecimentos em HTML, CSS, JavaScript, e banco de dados com PostgreSQL, atualmente focado na biblioteca Reactjs e estudando outras frameworks também Angular e Vue.
+### About me
+I am a frontend developer, an enthusiast in operating systems, especially the various distros of Linux (using Kali-Linux as a secondary system), with knowledge in HTML, CSS, JavaScript, and some notions in backend as well, I currently find myself studying various framewroks and other technologies with the intention of becoming a fullstack developer.
+
 
  <div align="left">
 <a href="https://github.com/Luan-Diego">
@@ -18,7 +19,7 @@ Sou um Desenvolvedor Full-stack, entusiasta em sistemas operacionais principalme
 </div>  
 
 
-### Linguagens e ferramentas
+### My Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,15 +35,13 @@ Sou um Desenvolvedor Full-stack, entusiasta em sistemas operacionais principalme
 
  
 
-### Entre em contato
+### Contact
   
 
 <a href="https://www.instagram.com/apenasluan_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luan-diego-04008ab2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:luandiegodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
   
-### Outros locais para me encontrar
-<a href="https://steamcommunity.com/id/chupapeitos/"><img src="https://camo.githubusercontent.com/8f3f8e12a8ab9620b87997aa946c7c5d876396a81295ea1854305920bb002b50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537465616d2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d7768697465" target="_blank"></a>
   
   
 
