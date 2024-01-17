@@ -7,14 +7,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
-
-
-  
-
-
-  
+<p align="center"> 
 <img src='https://github.com/Luan-Diego/Luan-Diego/assets/86962061/7c987a2a-c27a-4302-9006-577370ebccbb' alt='logo' width='300px' margin='0 auto'/>
-
+</p>
 
   
 ### About me
