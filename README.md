@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> 
-<img src="https://github.com/Luan-Diego/Luan-Diego/assets/86962061/258a93c1-ed83-41f4-a565-af75ae0dda31" alt='logo' width='380px' margin='0 auto'/>
+<img src="https://github.com/Luan-Diego/Luan-Diego/assets/86962061/258a93c1-ed83-41f4-a565-af75ae0dda31" alt='logo' width='700px' margin='0 auto'/>
 </p>
 
   
