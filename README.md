@@ -21,7 +21,7 @@
 I am a frontend developer, an enthusiast in operating systems, especially the various distros of Linux (using Kali-Linux as a secondary system), with knowledge in HTML, CSS, JavaScript, and some notions in backend as well, I currently find myself studying various framewroks and other technologies with the intention of becoming a fullstack developer.
 
 
- <div align="left">
+ <div align="center">
 <a href="https://github.com/Luan-Diego">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luan-Diego&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&called=PAT_1"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Diego&layout=compact&langs_count=7&theme=github_dark&called=PAT_1"/>
