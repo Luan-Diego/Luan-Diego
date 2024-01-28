@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Hi! Welcome! My name is Luan </h3>
+  <h3 align="center">Hi! Welcome! My name is Luan Diego </h3>
 </p>
 
 <p align="center">
